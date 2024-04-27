@@ -1,4 +1,4 @@
-**TP2: Canny Edges**
+# **TP2: Canny Edges**
 
 This project involves implementing various image processing techniques, focusing particularly on the Canny edge detection algorithm. Below is an overview of the tasks completed in this project:
 
